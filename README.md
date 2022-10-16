@@ -29,7 +29,7 @@ You can find the emoji codes here: https://emojiterra.com/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfop02&show_icons=true&locale=en&layout=compact" alt="dfop02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfop02&show_icons=true&locale=en" alt="dfop02" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dfop02&show_icons=true&locale=en" alt="dfop02" /></p>
 
 
 <!-- This readme was created by Diogo Fernandes - https://github.com/dfop02 -->
